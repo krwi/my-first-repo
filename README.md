@@ -7,3 +7,4 @@ Nice web-based editor.
 
 This might become an actual project some day.
 
+Or maybe not.
